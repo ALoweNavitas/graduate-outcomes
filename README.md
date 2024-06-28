@@ -31,7 +31,7 @@ Download and install the following programmes:
 3. [Git](https://git-scm.com/downloads)
    - A way to manage our files and track changes, also called source control.
 3. [Power BI](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
-   - A power data visualisation application which is used across our business.
+   - A powerful data visualisation application which is used across our business.
 4. [Zoom](https://zoom.us/download)
    - Our chosen way to communicate with external people
 
