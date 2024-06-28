@@ -14,7 +14,7 @@ Navitas likes to research and provide statistical analsysis to our colleages, wh
 
 ### How will I be supported? 
 
-**Adam Lowe**, global Data Engineer, and Tife Kusimo, **Global Data Analyst**, will be supporting you every step of the way. Some of the task may see you shadowing us, but we will be sure to include you in our work so you can learn and understand.
+**Adam Lowe**, global Data Engineer, and **Tife Kusimo**, Global Data Analyst, will be supporting you every step of the way. Some of the task may see you shadowing us, but we will be sure to include you in our work so you can learn and understand.
 
 As the Navitas technical team is **fully remote**, we will communicate via **Zoom**. We will use **Zoom** for chat messages and video calling.
 
