@@ -2,7 +2,7 @@
 
 ## Task
 
-### What we I be doing?
+### What will I be doing?
 
 As a work placement student, your task over the next 4 days is to help us create and design a dashboard focused on public domain data related to higher education. The data in particular is from **HESA**, the **Higher Education Statistics Agency**, who are the main data collector for higher education in the UK. The data focuses on **Graduate Outcomes**, providing statistics on the type of employment students go into after leaving university.
 
