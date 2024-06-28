@@ -62,3 +62,10 @@ Adam Lowe will be your main contact. Reach out via the following if you need any
 - Mobile: 07387024195
 
 ## Training Resources
+
+Whilst you will be working with us, as part of your placement you will be required to complete training modules which will establish you with the base skills to assist with the task. These should be completed as part of your working hours, and put into practice on the files used in the task.
+
+- [What is data analytics? An Introduction](https://www.youtube.com/watch?v=yZvFH7B6gKI&list=PL4GEkVtNYGlLYrpgpLLy8KlyX0xf31YKE)
+- [A beginners guide to the data analysis process](https://www.youtube.com/watch?v=lgCNTuLBMK4&list=PL4GEkVtNYGlLYrpgpLLy8KlyX0xf31YKE&index=2&pp=iAQB)
+- [Getting started with Power BI](https://learn.microsoft.com/en-gb/training/paths/create-use-analytics-reports-power-bi/?culture=en-us&country=us)
+- [Python tutorial for beginners playlist by Corey Schafer (video 1 to 9)](https://www.youtube.com/watch?v=YYXdXT2l-Gg&list=PLqyUgadpThTLltIPF0tiL6OVxZEY1Wets)
