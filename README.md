@@ -4,7 +4,7 @@
 
 ## Task
 
-### What we I be doing?
+### What will I be doing?
 
 As a work placement student, your task over the next 4 days is to help us create and design a dashboard focused on public domain data related to higher education. The data in particular is from **HESA**, the **Higher Education Statistics Agency**, who are the main data collector for higher education in the UK. The data focuses on **Graduate Outcomes**, providing statistics on the type of employment students go into after leaving university.
 
@@ -16,7 +16,7 @@ Navitas likes to research and provide statistical analsysis to our colleages, wh
 
 ### How will I be supported? 
 
-**Adam Lowe**, global Data Engineer, and Tife Kusimo, **Global Data Analyst**, will be supporting you every step of the way. Some of the task may see you shadowing us, but we will be sure to include you in our work so you can learn and understand.
+**Adam Lowe**, Global Data Engineer, and **Tife Kusimo**, Global Data Analyst, will be supporting you every step of the way. Some of the task may see you shadowing us, but we will be sure to include you in our work so you can learn and understand.
 
 As the Navitas technical team is **fully remote**, we will communicate via **Zoom**. We will use **Zoom** for chat messages and video calling.
 
@@ -33,7 +33,7 @@ Download and install the following programmes:
 3. [Git](https://git-scm.com/downloads)
    - A way to manage our files and track changes, also called source control.
 3. [Power BI](https://www.microsoft.com/en-us/download/details.aspx?id=58494)
-   - A power data visualisation application which is used across our business.
+   - A powerful data visualisation application which is used across our business.
 4. [Zoom](https://zoom.us/download)
    - Our chosen way to communicate with external people
 
