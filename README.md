@@ -1,5 +1,7 @@
 # README
 
+![Static Badge](https://img.shields.io/badge/PRs-welcome-brightgreen)
+
 ## Task
 
 ### What we I be doing?
